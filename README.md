@@ -1,4 +1,5 @@
 ChawYadanarOo
+write a sentence explaining the repository's purpose
 # EAD delivery demo
 
 Class 3: Git, GitHub and artifact delivery. Class 4: Docker image delivery.
